@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "download_url": "http://localhost:5000/download/latest",
+    "changelog": "Added new features and fixed bugs",
+    "release_date": "2025-03-24"
+}
