@@ -1,6 +1,6 @@
 {
-    "version": "1.0.2",
-    "download_url": "https://github.com/ragaming777/Clipboard-Manager/releases/download/v1.0.2/clipboard_manager.exe",
+    "version": "1.0.3",
+    "download_url": "https://github.com/ragaming777/Clipboard-Manager/releases/download/v1.0.3/clipboard_manager.exe",
     "changelog": "Added system tray icon and improved stability",
     "file_hash": "5c2a29148a5020589a69cf120b59a8fb0eb926ae01573a3d1e149b068c5fd98e",
     "release_date": "2025-03-24"
