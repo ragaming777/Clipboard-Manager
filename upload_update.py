@@ -120,9 +120,9 @@ class GitHubUploader:
 
 if __name__ == "__main__":
     # Replace these with your GitHub credentials
-    GITHUB_USERNAME = "YOUR_USERNAME"
-    GITHUB_TOKEN = "YOUR_PERSONAL_ACCESS_TOKEN"  # Make sure this token has repo access
-    GITHUB_REPO = "YOUR_USERNAME/YOUR_REPO_NAME"
+    GITHUB_USERNAME = "ragaming777"
+    GITHUB_TOKEN = "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"  # Make sure this token has repo access
+    GITHUB_REPO = "ragaming777/Clipboard-Manager"
 
     # Create uploader instance
     uploader = GitHubUploader(GITHUB_USERNAME, GITHUB_TOKEN, GITHUB_REPO)
